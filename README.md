@@ -2,7 +2,7 @@
 
 This plugin can be used to support the input of Mathematical formulae. It does this by opening an input dialog by command, then generating the formula and finally returning the edited formula back to the original note.
 
-For improved documentation see the following [Wiki](/Mick2nd/Katex-Input-Helper/wiki).
+For improved documentation see the following [Wiki](wiki).
 
 ## Basic Instructions
 
